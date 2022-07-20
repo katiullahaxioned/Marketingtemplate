@@ -626,7 +626,7 @@ footer .wrapper h5 {
 }
 
 footer .to-the-top .top-arrow::before {
-  margin-right: 20px;
+  margin-right: 15px;
   content: '\f062';
   font-family: "fontAwesome";
   text-indent: 0;
